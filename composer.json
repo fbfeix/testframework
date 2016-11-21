@@ -2,6 +2,7 @@
   "name": "digitalpianism/testframework",
   "type": "magento-module",
   "license":"OSL-3.0",
+  "minimum-stability": "dev",
   "description":"A simple test framework module to develop integration and unit tests on Magento 1",
   "require": {
     "php": ">=5.3",
